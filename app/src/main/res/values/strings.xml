@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My GitHub</string>
+    <string name="login">Login To GitHub</string>
+    <string name="no_internet">Poor internet connectivity!</string>
+    <string name="repository_title">My Repositories</string>
+    <string name="commit_title">Commits</string>
+</resources>
